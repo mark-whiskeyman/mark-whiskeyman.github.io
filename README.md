@@ -1,24 +1,26 @@
 # mark-whiskeyman.github.io
 
-##
-Hello! My name is Mark Whiskeyman!
+## Hello! My name is Mark Whiskeyman!
 Whatever I put my mind to I achieve. 
 There is no obstacle I will not overcome.
 What do you want me to achieve for your company? 
+
+## About me:
 
 In 2015 i decided to change my career by going back to school!
 Right now I am an Assistant Manager 
 Soon I will develop software. 
 Later I will lead a software development team. 
 
-# Project: Last Days of the FyreBrund
+# ePortfolio
+## Project: Last Days of the FyreBrund
 This is a project I've been working on in my spare time 
 This is a text based menu space trading game 
 The current iteration is build using Java and can be found here:
 git clone https://recursivefunction@bitbucket.org/recursivefunction/fyrebrund.git
 
-# Code Review July 2020: 
-## Last Days of the Fyebrund
+### Code Review July 2020: 
+### Last Days of the Fyebrund
 https://drive.google.com/file/d/1OrZgqBEq__totvvLUANpjs12Zg_7lT2x/view?usp=sharing
 
 This is an example of a code review I've done For a game I'm working on.
