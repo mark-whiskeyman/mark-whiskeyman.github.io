@@ -31,10 +31,10 @@ The player can Do the Following
 
 |   **BANK**  |**SHIPYARD**|**WPNDepot**|**Navigate**|
 |-------------|------------|------------|------------|
-| Make Loans  | Buy Ships  | Buy Wpns   | Select     |
+| Make Loans  | Buy Ships  | Buy Wpns   | *Select*   |
 | Repay Loans | Sell Ships | Sell Wpns  |  Location  |
-| Spend Money |            |            |            |
-| Earn Money  |            |            |            |
+| Spend Money |            |            | *Change*   |
+| Earn Money  |            |            |  Location  |
 
 We still need to add The Ability to
 
@@ -47,31 +47,42 @@ We still need to add The Ability to
 
 ### ENHANCEMENT_1 Software design/Engineering.: 
 ### Last Days of the Fyebrund
-  The first enhancement Added was for the user to buy and sell cargo. 
+  The first enhancement Added was for the user to buy and sell cargo. Although this seems simple there are many Software Engineering prinicples at use here. 
+  
+  Specifically, ideas such as 
+  
+  -Functional decomposition
+  
+  -Incrementally building
+  
+  -Building on known good code and 
+  
+  -Object-Oriented Design. 
+  
+  With Object oriented design I am using an “is-a”, “has-a” relationship to ensure clean coding technique. 
+The thought process here for Object Oriented Design is such:
+
+I started with a player
+
+A player has a bank account
+
+A player has a ship 
+
+A ship has weapons...
+
+After Enhancement 1 were are now here 
+
+|   **BANK**  |**SHIPYARD**|**WPNDepot**|**Navigate**|**Cargo** |
+|-------------|------------|------------|------------|----------|
+| Make Loans  | Buy Ships  | Buy Wpns   | *Select*   |Buy Cargo |
+| Repay Loans | Sell Ships | Sell Wpns  |  Location  |Sell Cargo|
+| Spend Money |            |            | *Change*   |          |
+| Earn Money  |            |            |  Location  |          |
+
+We still need to add The Ability to
+
+[] Have Enemy Encounters
+
+[] Interact with A database
 
 
-
-General Area:
-This is an Area for testing how Gitpages works 
-
-# Heading 1
-## Heading 2
-### Heading 3
-
-**Bold Text**
-_Italic_
-~~Strikethrough~~
-**Bold and then _Italic_ ** 
-
-Quote the Raven
-> Nevermore
-
-Here is a list 
-1) A
-2) B
-3) C
-
-Tasks
--[ ] Graduate School
--[ ] Find Job in field 
--[x] Get Mortgage
