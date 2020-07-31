@@ -27,11 +27,17 @@ This is an example of a code review I've done For a game I'm working on.
 
 ### ENHANCEMENT_0 Orginal State.: 
 ### Last Days of the Fyebrund
-The player can 
-  Make Loans\
-  Repay Loans\
-  Spend Money\
-  Earn MOney\
+The player can:
+
+  -BANK          -CHANGE SHIPS
+
+  -Make Loans    -Buy Ships
+  
+  -Repay Loans   -Sell Ships
+  
+  -Spend Money
+  
+  -Earn Money
 
 ### ENHANCEMENT_1 Software design/Engineering.: 
 ### Last Days of the Fyebrund
