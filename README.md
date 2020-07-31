@@ -44,9 +44,9 @@ We still need to add The Ability to
 
 [] Interact with A database
 
-
-### ENHANCEMENT_1 Software design/Engineering.: 
+### ENHANCEMENT_1 Software design/Engineering.:
 ### Last Days of the Fyebrund
+[FULL TEXT HERE](mark-whiskeyman.github.io/Enhancement_1.md)
   The first enhancement Added was for the user to buy and sell cargo. Although this seems simple there are many Software Engineering prinicples at use here. 
   
   Specifically, ideas such as 
