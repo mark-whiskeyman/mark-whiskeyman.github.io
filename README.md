@@ -27,19 +27,23 @@ This is an example of a code review I've done For a game I'm working on.
 
 ### ENHANCEMENT_0 Orginal State.: 
 ### Last Days of the Fyebrund
-The player can:
+The player can Do the Following 
 
-|   **BANK**  |**CHANGE SHIPS**|
-|-------------|----------------|
-|  Make Loans |         
+|   **BANK**  |**SHIPYARD**|**WPNDepot**|**Navigate**|
+|-------------|------------|------------|------------|
+| Make Loans  | Buy Ships  | Buy Wpns   | Select     |
+| Repay Loans | Sell Ships | Sell Wpns  |  Location  |
+| Spend Money |            |            |            |
+| Earn Money  |            |            |            |
 
-  -   -Buy Ships
-  
-  -Repay Loans   -Sell Ships
-  
-  -Spend Money
-  
-  -Earn Money
+We still need to add The Ability to
+
+[] Buy And Sell Cargo 
+
+[] Have Enemy Encounters
+
+[] Interact with A database
+
 
 ### ENHANCEMENT_1 Software design/Engineering.: 
 ### Last Days of the Fyebrund
