@@ -17,13 +17,25 @@ Later I will lead a software development team.
 This is a project I've been working on in my spare time 
 This is a text based menu space trading game 
 The current iteration is build using Java and can be found here:
-git clone https://recursivefunction@bitbucket.org/recursivefunction/fyrebrund.git
+git clone (https://recursivefunction@bitbucket.org/recursivefunction/fyrebrund.git)
 
 ### Code Review July 2020: 
 ### Last Days of the Fyebrund
-https://drive.google.com/file/d/1OrZgqBEq__totvvLUANpjs12Zg_7lT2x/view?usp=sharing
+(https://drive.google.com/file/d/1OrZgqBEq__totvvLUANpjs12Zg_7lT2x/view?usp=sharing)
 
 This is an example of a code review I've done For a game I'm working on.
+
+### ENHANCEMENT_0 Orginal State.: 
+### Last Days of the Fyebrund
+The player can 
+  Make Loans\
+  Repay Loans\
+  Spend Money\
+  Earn MOney\
+
+### ENHANCEMENT_1 Software design/Engineering.: 
+### Last Days of the Fyebrund
+  The first enhancement Added was for the user to buy and sell cargo. 
 
 
 
