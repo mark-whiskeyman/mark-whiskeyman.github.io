@@ -29,9 +29,11 @@ This is an example of a code review I've done For a game I'm working on.
 ### Last Days of the Fyebrund
 The player can:
 
-  -BANK          -CHANGE SHIPS
+|   **BANK**  |**CHANGE SHIPS**|
+|-------------|----------------|
+|  Make Loans |         
 
-  -Make Loans    -Buy Ships
+  -   -Buy Ships
   
   -Repay Loans   -Sell Ships
   
