@@ -44,13 +44,13 @@ Here's a simplified version:
 4.    --C.2 Launch Missiles 
 4.    --C.3 Attempt bribe
 4.    --C.4 Attempt retreat
-4.  D Enemy chooses action based on outcome probabilty of battle
-4.    D.1 If outcome favorable fire weapons 
-4.    D.2 if outcome less favorible fire missile
-4.    D.3 if outcome bad attempt retreat
-4.  E Exit battle if player or enemy is dead, retreating, bribed otherwise repeat at 4.B
+4.  -D Enemy chooses action based on outcome probabilty of battle
+4.    --D.1 If outcome favorable fire weapons 
+4.    --D.2 if outcome less favorible fire missile
+4.    --D.3 if outcome bad attempt retreat
+4.  -E Exit battle if player or enemy is dead, retreating, bribed otherwise repeat at 4.B
 5. If Friendly 
-5. A Display message of peace 
+5. -A Display message of peace 
 6. Exit Encounter 
   
 
