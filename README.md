@@ -37,13 +37,13 @@ Here's a simplified version:
 2. Select a ship from the ship file within one level of player
 3. Determine if ship is enemy or friendly 
 4. If enemy 
-4.  A Add weapons to the enemy based on level of enemy ship
-4.  B Decide turn order 
-4.  C Allow play to choose action on their turn
-4.    C.1 Fire Weapons
-4.    C.2 Launch Missiles 
-4.    C.3 Attempt bribe
-4.    C.4 Attempt retreat
+4.  -A Add weapons to the enemy based on level of enemy ship
+4.  -B Decide turn order 
+4.  -C Allow play to choose action on their turn
+4.    --C.1 Fire Weapons
+4.    --C.2 Launch Missiles 
+4.    --C.3 Attempt bribe
+4.    --C.4 Attempt retreat
 4.  D Enemy chooses action based on outcome probabilty of battle
 4.    D.1 If outcome favorable fire weapons 
 4.    D.2 if outcome less favorible fire missile
