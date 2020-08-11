@@ -1,6 +1,7 @@
 # mark-whiskeyman.github.io
 Quick Links 
- [Project FyreBrund git clone](https://recursivefunction@bitbucket.org/recursivefunction/fyrebrund.git)
+- [Project FyreBrund git clone](https://recursivefunction@bitbucket.org/recursivefunction/fyrebrund.git)
+- [Screen capture CodeReview](https://drive.google.com/file/d/1OrZgqBEq__totvvLUANpjs12Zg_7lT2x/view?usp=sharing)
 
 
 ## Hello! My name is Mark Whiskeyman!
@@ -15,10 +16,11 @@ Right now, I am an Assistant Manager
 Soon I will develop software. 
 Later I will lead a software development team. 
 
-# e-Portfolio - Latest Updates are at the top 
+# e-Portfolio 
 
 ## Professional Self-Assessment
-See the [FULL TEXT HERE](https://github.com/mark-whiskeyman/mark-whiskeyman.github.io/blob/master/Professional_Self_Assessment.md)
+See the [FULL TEXT HERE](https://github.com/mark-whiskeyman/mark-whiskeyman.github.io/blob/master/Professional_Self_Assessment.md).
+
 The artifact selected for this e-portfolio showcases my skills in the Areas of Software Design and Engineering, Data Structures and Algorithms, and Databases. The e-portfolio focuses on 5 outcomes in brief:
 
 - Building Collaborative Environments
@@ -31,20 +33,26 @@ The artifact selected for this e-portfolio showcases my skills in the Areas of S
 
 - Building with a security mindset
 
+### Code Review July 2020: 
+### Last Days of the Fyebrund
+[Screen capture CodeReview](https://drive.google.com/file/d/1OrZgqBEq__totvvLUANpjs12Zg_7lT2x/view?usp=sharing)
 
+This is an example of a code review I have done for a game I am working on. This code review shows where the code was at the beginning of the project, and the planned enhancements. 
 
-## Project: Last Days of the FyreBrund
+## Project: Last Days of the FyreBrund - Latest updates at the top
 This is a project I have been working on in my spare time 
 This is a text-based menu space trading game 
 The current iteration is build using Java and can be found here:
 [git clone](https://recursivefunction@bitbucket.org/recursivefunction/fyrebrund.git)
 
 ### ENHANCEMENT_3 Databases
-See the [FULL TEXT HERE](https://github.com/mark-whiskeyman/mark-whiskeyman.github.io/blob/master/Enhancement_3.md)
+See the [FULL TEXT HERE](https://github.com/mark-whiskeyman/mark-whiskeyman.github.io/blob/master/Enhancement_3.md).
 
 The final Enhancement of the artifact deals with Databases. 
 
-Here we used MongoDB to import a CSV file into documents. Then allowed the user to search the documents (ships) by name of ship, type of ship, or size of ship. 
+Here we used MongoDB to import a CSV file into documents. Then we allowed the user to search the documents (ships) by name of ship, type of ship, or size of ship. Although the user’s interface is simplified, searching the data is done in several ways. The data is either aggregated in the pipeline, or searched using a find function, or searched using a regex function that allows for partial matches for typed queries. 
+
+Using databases was easier in the sense that the database uses a driver and function calls to deliver the resources. I did not have to write my own logic, then test it, then debug it. Thus, the database aspect was slightly less complicated than anticipated. 
 
 
 |   **BANK**  |**SHIPYARD**|**WPNDepot**|**Navigate**|**Cargo** |**Encounters**     | **Databases**       |
@@ -61,7 +69,7 @@ Here we used MongoDB to import a CSV file into documents. Then allowed the user 
 
 ### ENHANCEMENT_2 Algorithms and Data Structures.:
 ### Last Days of the Fyebrund
-See the [FULL TEXT HERE](https://github.com/mark-whiskeyman/mark-whiskeyman.github.io/blob/master/Enhancement_2.md)
+See the [FULL TEXT HERE](https://github.com/mark-whiskeyman/mark-whiskeyman.github.io/blob/master/Enhancement_2.md).
 
 The Second Enhancement deals with Algorithms and Data Structures.
 
@@ -94,7 +102,7 @@ Here is a simplified version:
 6. Exit Encounter 
   
 
-After Enhancement 2 we are now here 
+After Enhancement 2 we are now here: 
 
 |   **BANK**  |**SHIPYARD**|**WPNDepot**|**Navigate**|**Cargo** |**Encounters**
 |-------------|------------|------------|------------|----------|-------------------|
@@ -116,8 +124,9 @@ We still need to add The Ability to
 
 ### ENHANCEMENT_1 Software design/Engineering.:
 ### Last Days of the Fyebrund
-See the [FULL TEXT HERE](https://github.com/mark-whiskeyman/mark-whiskeyman.github.io/blob/master/Enhancement_1.md)
-  The first enhancement Added was for the user to buy and sell cargo. Although this seems simple there are many Software Engineering principles at use here. 
+See the [FULL TEXT HERE](https://github.com/mark-whiskeyman/mark-whiskeyman.github.io/blob/master/Enhancement_1.md).
+
+The first enhancement Added was for the user to buy and sell cargo. Although this seems simple there are many Software Engineering principles at use here. 
   
   Specifically, ideas such as 
   
@@ -175,11 +184,7 @@ We still need to add The Ability to
 [] Interact with A database
 
 
-### Code Review July 2020: 
-### Last Days of the Fyebrund
-[Screen capture CodeReview](https://drive.google.com/file/d/1OrZgqBEq__totvvLUANpjs12Zg_7lT2x/view?usp=sharing)
 
-This is an example of a code review I have done for a game I am working on.
 
 
 
