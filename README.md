@@ -19,7 +19,7 @@ Later I will lead a software development team.
 # ePortfolio - Latest Updates are at the top 
 
 ## Professional Self-Assessment
-See the [FULL TEXT HERE](https://github.com/mark-whiskeyman/mark-whiskeyman.github.io/blob/master/Professional_Self_Aassessment.md)
+See the [FULL TEXT HERE](https://github.com/mark-whiskeyman/mark-whiskeyman.github.io/blob/master/Professional_Self_Assessment.md)
 The artifact selected for this e-portfolio showcases my skills in the Areas of Software Design and Engineering, Data Structures and Algorithms, and Databases. The e-portfolio focuses on 5 outcomes in brief:
 
 - Building Collaberative Environments
