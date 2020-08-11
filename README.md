@@ -1,4 +1,8 @@
 # mark-whiskeyman.github.io
+Quick Links 
+
+Project [git clone](https://recursivefunction@bitbucket.org/recursivefunction/fyrebrund.git)
+
 
 ## Hello! My name is Mark Whiskeyman!
 Whatever I put my mind to I achieve. 
@@ -13,6 +17,23 @@ Soon I will develop software.
 Later I will lead a software development team. 
 
 # ePortfolio - Latest Updates are at the top 
+
+## Professional Self-Assessment
+See the [FULL TEXT HERE](https://github.com/mark-whiskeyman/mark-whiskeyman.github.io/blob/master/Professional_Self_Aassessment.md)
+The artifact selected for this e-portfolio showcases my skills in the Areas of Software Design and Engineering, Data Structures and Algorithms, and Databases. The e-portfolio focuses on 5 outcomes in brief:
+
+- Building Collaberative Environments
+
+- Deliver Professional Quality Communications
+
+- Solving Problems with Algorithms and Data Structures 
+
+- Using Well founded software development techniques
+
+- Building with a security mindset
+
+
+
 ## Project: Last Days of the FyreBrund
 This is a project I've been working on in my spare time 
 This is a text based menu space trading game 
