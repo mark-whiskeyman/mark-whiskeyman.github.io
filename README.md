@@ -1,7 +1,6 @@
 # mark-whiskeyman.github.io
 Quick Links 
-
-Project [git clone](https://recursivefunction@bitbucket.org/recursivefunction/fyrebrund.git)
+ [Project FyreBrund git clone](https://recursivefunction@bitbucket.org/recursivefunction/fyrebrund.git)
 
 
 ## Hello! My name is Mark Whiskeyman!
@@ -11,18 +10,18 @@ What do you want me to achieve for your company?
 
 ## About me:
 
-In 2015 i decided to change my career by going back to school!
-Right now I am an Assistant Manager 
+In 2015 I decided to change my career by going back to school!
+Right now, I am an Assistant Manager 
 Soon I will develop software. 
 Later I will lead a software development team. 
 
-# ePortfolio - Latest Updates are at the top 
+# e-Portfolio - Latest Updates are at the top 
 
 ## Professional Self-Assessment
 See the [FULL TEXT HERE](https://github.com/mark-whiskeyman/mark-whiskeyman.github.io/blob/master/Professional_Self_Assessment.md)
 The artifact selected for this e-portfolio showcases my skills in the Areas of Software Design and Engineering, Data Structures and Algorithms, and Databases. The e-portfolio focuses on 5 outcomes in brief:
 
-- Building Collaberative Environments
+- Building Collaborative Environments
 
 - Deliver Professional Quality Communications
 
@@ -35,15 +34,15 @@ The artifact selected for this e-portfolio showcases my skills in the Areas of S
 
 
 ## Project: Last Days of the FyreBrund
-This is a project I've been working on in my spare time 
-This is a text based menu space trading game 
+This is a project I have been working on in my spare time 
+This is a text-based menu space trading game 
 The current iteration is build using Java and can be found here:
 [git clone](https://recursivefunction@bitbucket.org/recursivefunction/fyrebrund.git)
 
 ### ENHANCEMENT_3 Databases
 See the [FULL TEXT HERE](https://github.com/mark-whiskeyman/mark-whiskeyman.github.io/blob/master/Enhancement_3.md)
 
-THe final Enhancement of the artifact deals with Databases. 
+The final Enhancement of the artifact deals with Databases. 
 
 Here we used MongoDB to import a CSV file into documents. Then allowed the user to search the documents (ships) by name of ship, type of ship, or size of ship. 
 
@@ -57,7 +56,7 @@ Here we used MongoDB to import a CSV file into documents. Then allowed the user 
 |             |            |            |            |          |  -Attempt Retreat | - Search by          |
 |             |            |            |            |          | Enemies can       |   close matches      |
 |             |            |            |            |          |  -Fire weapons    | - Search by ship type | 
-|             |            |            |            |          |  -Attempt Retreat | - Search by Sship size|
+|             |            |            |            |          |  -Attempt Retreat | - Search by ship size|
 |             |            |            |            |          |Encounter friends  |                       |
 
 ### ENHANCEMENT_2 Algorithms and Data Structures.:
@@ -68,13 +67,13 @@ The Second Enhancement deals with Algorithms and Data Structures.
 
 In this addition to the artifact I have added enemy and friendly encounters.
 
-This required major use of alogirthms including the use of IF...ELSE, SWITCH,
+This required major use of algorithms including the use of IF...ELSE, SWITCH,
 Random number generation, selection from arrays and lists, aggregating data,
 guard conditions, TRY...CATCH, etc. 
 
-Here's a simplified version:
+Here is a simplified version:
 
-1. Detemine current player level 
+1. Determine current player level 
 2. Select a ship from the ship file within one level of player
 3. Determine if ship is enemy or friendly 
 4. If enemy 
@@ -85,9 +84,9 @@ Here's a simplified version:
 4.    --C.2 Launch Missiles 
 4.    --C.3 Attempt bribe
 4.    --C.4 Attempt retreat
-4.  -D Enemy chooses action based on outcome probabilty of battle on their turn
+4.  -D Enemy chooses action based on outcome probability of battle on their turn
 4.    --D.1 If outcome favorable fire weapons 
-4.    --D.2 if outcome less favorible fire missile
+4.    --D.2 if outcome less favorable fire missile
 4.    --D.3 if outcome bad attempt retreat
 4.  -E Exit battle if player or enemy is dead, retreating, bribed otherwise repeat at 4.B
 5. If Friendly 
@@ -95,7 +94,7 @@ Here's a simplified version:
 6. Exit Encounter 
   
 
-After Enhancement 2 we are are now here 
+After Enhancement 2 we are now here 
 
 |   **BANK**  |**SHIPYARD**|**WPNDepot**|**Navigate**|**Cargo** |**Encounters**
 |-------------|------------|------------|------------|----------|-------------------|
@@ -118,7 +117,7 @@ We still need to add The Ability to
 ### ENHANCEMENT_1 Software design/Engineering.:
 ### Last Days of the Fyebrund
 See the [FULL TEXT HERE](https://github.com/mark-whiskeyman/mark-whiskeyman.github.io/blob/master/Enhancement_1.md)
-  The first enhancement Added was for the user to buy and sell cargo. Although this seems simple there are many Software Engineering prinicples at use here. 
+  The first enhancement Added was for the user to buy and sell cargo. Although this seems simple there are many Software Engineering principles at use here. 
   
   Specifically, ideas such as 
   
@@ -156,7 +155,7 @@ We still need to add The Ability to
 
 [] Interact with A database
 
-### ENHANCEMENT_0 Orginal State.: 
+### ENHANCEMENT_0 Original State.: 
 ### Last Days of the Fyebrund
 The player can Do the Following 
 
@@ -169,7 +168,7 @@ The player can Do the Following
 
 We still need to add The Ability to
 
-[] Buy And Sell Cargo 
+[] Buy and Sell Cargo 
 
 [] Have Enemy Encounters
 
@@ -178,8 +177,9 @@ We still need to add The Ability to
 
 ### Code Review July 2020: 
 ### Last Days of the Fyebrund
-[Screencapture CodeReview](https://drive.google.com/file/d/1OrZgqBEq__totvvLUANpjs12Zg_7lT2x/view?usp=sharing)
+[Screen capture CodeReview](https://drive.google.com/file/d/1OrZgqBEq__totvvLUANpjs12Zg_7lT2x/view?usp=sharing)
 
-This is an example of a code review I've done For a game I'm working on.
+This is an example of a code review I have done for a game I am working on.
+
 
 
