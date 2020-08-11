@@ -40,6 +40,26 @@ This is a text based menu space trading game
 The current iteration is build using Java and can be found here:
 [git clone](https://recursivefunction@bitbucket.org/recursivefunction/fyrebrund.git)
 
+### ENHANCEMENT_3 Databases
+See the [FULL TEXT HERE](https://github.com/mark-whiskeyman/mark-whiskeyman.github.io/blob/master/Enhancement_3.md)
+
+THe final Enhancement of the artifact deals with Databases. 
+
+Here we used MongoDB to import a CSV file into documents. Then allowed the user to search the documents (ships) by name of ship, type of ship, or size of ship. 
+
+
+|   **BANK**  |**SHIPYARD**|**WPNDepot**|**Navigate**|**Cargo** |**Encounters**     | **Databases**       |
+|-------------|------------|------------|------------|----------|-------------------|---------------------|
+| Make Loans  | Buy Ships  | Buy Wpns   | *Select*   |Buy Cargo | Encounter enemies | -import csv         |
+| Repay Loans | Sell Ships | Sell Wpns  |  Location  |Sell Cargo|  -Fire on enemy   |  into document       |
+| Spend Money |            |            | *Change*   |          |  -Launch Missiles | - Aggregate          |
+| Earn Money  |            |            |  Location  |          |  -Bribe enemy     | - Find               |
+|             |            |            |            |          |  -Attempt Retreat | - Search by          |
+|             |            |            |            |          | Enemies can       |   close matches      |
+|             |            |            |            |          |  -Fire weapons    | - Search by ship type | 
+|             |            |            |            |          |  -Attempt Retreat | - Search by Sship size|
+|             |            |            |            |          |Encounter friends  |                       |
+
 ### ENHANCEMENT_2 Algorithms and Data Structures.:
 ### Last Days of the Fyebrund
 See the [FULL TEXT HERE](https://github.com/mark-whiskeyman/mark-whiskeyman.github.io/blob/master/Enhancement_2.md)
