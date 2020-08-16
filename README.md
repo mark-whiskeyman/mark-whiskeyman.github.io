@@ -24,7 +24,7 @@ What do you want me to achieve for your company?
 ## About me:
 
 In 2015 I decided to change my career by going back to school!
-Right now, I am an Assistant Manager 
+Right now, I am an Assistant Manager. 
 Soon I will develop software. 
 Later I will lead a software development team. 
 
@@ -33,28 +33,28 @@ Later I will lead a software development team.
 ## Professional Self-Assessment
 See the [FULL TEXT HERE](https://github.com/mark-whiskeyman/mark-whiskeyman.github.io/blob/master/Professional_Self_Assessment.md).
 
-The artifact selected for this e-portfolio showcases my skills in the Areas of Software Design and Engineering, Data Structures and Algorithms, and Databases. The e-portfolio focuses on 5 outcomes in brief:
+The artifact selected for this e-portfolio showcases my skills in the Areas of Software Design and Engineering, Data Structures and Algorithms, and Databases. The e-portfolio focuses on 5 outcomes. The outcomes are discussed in detail in the assessment itself, here they are in brief:
 
-- Building Collaborative Environments
+- Building Collaborative Environments.
 
-- Deliver Professional Quality Communications
+- Deliver Professional Quality Communications.
 
-- Solving Problems with Algorithms and Data Structures 
+- Solving Problems with Algorithms and Data Structures. 
 
-- Using Well founded software development techniques
+- Using Well founded software development techniques.
 
-- Building with a security mindset
+- Building with a security mindset.
 
 ### Code Review July 2020: 
 ### Last Days of the Fyebrund
 [Screen capture CodeReview](https://drive.google.com/file/d/1OrZgqBEq__totvvLUANpjs12Zg_7lT2x/view?usp=sharing)
 
-This is an example of a code review I have done for a game I am working on. This code review shows where the code was at the beginning of the project, and the planned enhancements. 
+This is an example of a code review I have done for a game I am working on. This code review shows where the code was at the beginning of the project and the planned enhancements. 
 
 ## Project: Last Days of the FyreBrund - Latest updates at the top
-This is a project I have been working on in my spare time 
-This is a text-based menu space trading game 
-The current iteration is build using Java and can be found here:
+This is a project I have been working on in my spare time. 
+This is a text-based menu space trading game. 
+The current iteration is built using Java and can be found here:
 [git clone](https://recursivefunction@bitbucket.org/recursivefunction/fyrebrund.git)
 
 ### ENHANCEMENT_3 Databases
@@ -62,10 +62,11 @@ See the [FULL TEXT HERE](https://github.com/mark-whiskeyman/mark-whiskeyman.gith
 
 The final Enhancement of the artifact deals with Databases. 
 
-Here we used MongoDB to import a CSV file into documents. Then we allowed the user to search the documents (ships) by name of ship, type of ship, or size of ship. Although the user’s interface is simplified, searching the data is done in several ways. The data is either aggregated in the pipeline, or searched using a find function, or searched using a regex function that allows for partial matches for typed queries. 
+Here we used MongoDB to import a CSV file into "documents". Then we allowed the user to search the documents (ships) by name of ship, type of ship, or size of ship. Although the user’s interface is simplified, searching the data is done in several ways. The data is either aggregated in the pipeline, or searched using a find function, or searched using a regex function that allows for partial matches for typed queries. 
 
-Using databases was easier in the sense that the database uses a driver and function calls to deliver the resources. I did not have to write my own logic, then test it, then debug it. Thus, the database aspect was slightly less complicated than anticipated. 
+Using databases was easier in the sense that the database uses a driver and function calls to deliver the resources. I did not have to write my own logic, then test it, and then debug it. Thus, the database aspect was slightly less complicated than anticipated. 
 
+After Enhancement 3 we are now here: 
 
 |   **BANK**  |**SHIPYARD**|**WPNDepot**|**Navigate**|**Cargo** |**Encounters**     | **Databases**       |
 |-------------|------------|------------|------------|----------|-------------------|---------------------|
@@ -87,7 +88,7 @@ The Second Enhancement deals with Algorithms and Data Structures.
 
 In this addition to the artifact I have added enemy and friendly encounters.
 
-This required major use of algorithms including the use of IF...ELSE, SWITCH,
+This addition required major use of algorithms including the use of IF...ELSE, SWITCH,
 Random number generation, selection from arrays and lists, aggregating data,
 guard conditions, TRY...CATCH, etc. 
 
@@ -138,7 +139,7 @@ We still need to add The Ability to
 ### Last Days of the Fyebrund
 See the [FULL TEXT HERE](https://github.com/mark-whiskeyman/mark-whiskeyman.github.io/blob/master/Enhancement_1.md).
 
-The first enhancement Added was for the user to buy and sell cargo. Although this seems simple there are many Software Engineering principles at use here. 
+The first enhancement added was for the user to be able to buy and sell cargo. Although this seems simple there are many Software Engineering principles at use here. 
   
   Specifically, ideas such as 
   
@@ -148,7 +149,7 @@ The first enhancement Added was for the user to buy and sell cargo. Although thi
   
   -Building on known good code and 
   
-  -Object-Oriented Design. 
+  -Object-Oriented Design 
   
   With Object oriented design I am using an “is-a”, “has-a” relationship to ensure clean coding technique. 
 The thought process here for Object Oriented Design is such:
@@ -159,9 +160,9 @@ A player has a bank account
 
 A player has a ship 
 
-A ship has weapons...
+A ship has weapons... and so on.
 
-After Enhancement 1 we are now here 
+After Enhancement 1 we are now here: 
 
 |   **BANK**  |**SHIPYARD**|**WPNDepot**|**Navigate**|**Cargo** |
 |-------------|------------|------------|------------|----------|
@@ -178,7 +179,9 @@ We still need to add The Ability to
 
 ### ENHANCEMENT_0 Original State.: 
 ### Last Days of the Fyebrund
-The player can Do the Following 
+This is the initial state of the build. This area lays a lot of the foundation for what we will be expanding on. Things like buying and selling ships may not seem difficult, but designing the ships to be balanced and playable was the tricky part. 
+
+So far The player can Do the Following: 
 
 |   **BANK**  |**SHIPYARD**|**WPNDepot**|**Navigate**|
 |-------------|------------|------------|------------|
