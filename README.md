@@ -7,9 +7,7 @@ Quick Links
 - [Enhancement 1 Design Narrative - as a word document](https://docs.google.com/document/d/1VaamAJ3VHv0WdWRr3UyGx3mwj7UpTQcCq4LvY8ua2Yg/edit?usp=sharing)
 - [Project FyreBrund git clone](https://recursivefunction@bitbucket.org/recursivefunction/fyrebrund.git) 
 [https://recursivefunction@bitbucket.org/recursivefunction/fyrebrund.git](https://recursivefunction@bitbucket.org/recursivefunction/fyrebrund.git)
-**Known Issues: 
-**Google Chrome has trouble viewing this sometimes. 
-**Microsoft Edge Can't click the link
+**Known Issues: Google Chrome has trouble viewing this sometimes. Microsoft Edge Can't click the link**
 
 If you experience these issue:
 1. Try closing all Chrome windows and reopening. 
