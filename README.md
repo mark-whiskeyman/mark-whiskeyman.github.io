@@ -5,7 +5,9 @@ Quick Links
 - [Enhancement 3 Databases Narrative  - as a word document](https://docs.google.com/document/d/1u8MXPjENobWeloMATqxaTnQFK8JpWAlID3pZ5amxoRY/edit?usp=sharing)
 - [Enhancement 2 Algorithms Narrative - as a word document](https://docs.google.com/document/d/1PvHcMLF3eQ-nVpq8_DUb85CJygjr-xWyvHTqJKQ2sJ8/edit?usp=sharing)
 - [Enhancement 1 Design Narrative - as a word document](https://docs.google.com/document/d/1VaamAJ3VHv0WdWRr3UyGx3mwj7UpTQcCq4LvY8ua2Yg/edit?usp=sharing)
-- [Project FyreBrund git clone](https://recursivefunction@bitbucket.org/recursivefunction/fyrebrund.git) **Known Issue: Google Chrome has trouble viewing this sometimes. If you experience this issue:** 
+- [Project FyreBrund git clone](https://recursivefunction@bitbucket.org/recursivefunction/fyrebrund.git) 
+[https://recursivefunction@bitbucket.org/recursivefunction/fyrebrund.git](https://recursivefunction@bitbucket.org/recursivefunction/fyrebrund.git)
+**Known Issue: Google Chrome has trouble viewing this sometimes. If you experience this issue:** 
 1. Try closing all Chrome windows and reopening. 
 2. Try Using Microsoft Edge or another browser.
 
